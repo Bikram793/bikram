@@ -1,49 +1,24 @@
 # bikram
 project website
-<!DOCTYPE html>
+<Doctype!>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>Challenge: Fancy font families</title>
-        <style>
-        #flinstones {
+<head>
+<title> All about boss </title>
+</head>
+<body>
+<style>
+.is{
+back-ground:green;
+}
+</style>
+<h1>Boss's documentary</h1>
+<imgscr="https://th.bing.com/th/id/OIP.j9vJlhDR1SPAGGvPyJWEoAHaCU?pid=Api&rs=1"alt="boss" >
+<p1>Bosses are very great .You would definately want a boss in your life. The word boss occupies 95% of human brain think 95% it is not less 
+so keep in mind that in your mind there needs someone call boss.<br>I can tell you the no. 1 boss of the world his name is "<em class="is">BIKRAM JOSHI
+</em>"
 
-        }
 
-        #jetsons {
 
-        }
 
-        #addams {
-
-        }
-        </style>
-    </head>
-    <body>
-
-    <p>Some fun theme songs of well known TV families...</p>
-
-    <h4>The Flinstones</h4>
-    <p id="flinstones">
-    Meet the Flintstones<br>
-    They're the modern stone age family<br>
-    From the town of Bedrock<br>
-    They're a page right of history</p>
-
-    <h4>The Jetsons</h4>
-    <p id="jetsons">
-    Meet George Jetson,<br>
-    His Boy Elroy,<br>
-    Daughter Judy,<br>
-    Jane, His wife
-    </p>
-
-    <h4>The Addams Family</h4>
-    <p id="addams">
-    They're creepy and they're kooky,<br>
-    mysterious and spooky<br>
-    They're all together ooky,<br>
-    the Addams Family 
-    </p>
-    </body>
+</body>
 </html>
